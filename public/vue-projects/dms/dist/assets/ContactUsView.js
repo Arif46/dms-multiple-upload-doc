@@ -1,0 +1,1 @@
+import{_ as t,M as o,r as n,o as s,c,f as r,F as p,b as a}from"./index.js";const _={data(){return{app_name:"DMS"}},components:{MainLayout:o}},i=a("div",{class:"container"},[a("h1",null,"This is a contact-us page")],-1);function u(l,d,m,f,M,h){const e=n("MainLayout");return s(),c(p,null,[r(e),i],64)}const x=t(_,[["render",u]]);export{x as default};
